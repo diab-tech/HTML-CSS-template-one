@@ -454,7 +454,8 @@ letter-spacing: -2px;
     font-size: 16px;
     margin-top: 133px;
     margin-bottom: -118px;
-    justify-content: center;
+    margin-left: 10px;
+/*     justify-content: center; */
 }
 .contact .info .social i {
     margin-left: 10px;
