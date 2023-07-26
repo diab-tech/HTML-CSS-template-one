@@ -458,7 +458,7 @@ letter-spacing: -2px;
 /*     justify-content: center; */
 }
 .contact .info .social i {
-    margin-left: 10px;
+    margin-left: 5px;
     color: #2c4755;
 }
 @media (max-width: 567px){
