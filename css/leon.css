@@ -254,7 +254,7 @@ display: block;
 
 }
 .intro-text h1 {
-    color: var(--main-color, #eee);
+    color: var(--main-color);
     font-size: 50px;
     font-style: bold;
 }
