@@ -260,7 +260,8 @@ display: block;
 }
 .intro-text p {
     font-size: 20px;
-    line-height: 1.8
+    line-height: 1.8;
+    color: white;
 }
 /* End Landing Section */
 /* start feature */
